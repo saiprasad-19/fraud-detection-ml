@@ -36,13 +36,11 @@ This means the model detects most fraud transactions while keeping false alarms 
 - imbalanced-learn (SMOTE)
 
 ## Project Structure
-fraud-detection-ml/
-│
-├── notebooks/
-│ └── fraud_detection.ipynb
-│
-├── requirements.txt
-└── README.md
+
+- `notebooks/` – Contains the Jupyter notebook used for data analysis and model training  
+  - `fraud_detection.ipynb`
+- `requirements.txt` – Python dependencies for the project  
+- `README.md` – Project documentation
 
 ## Dataset
 
